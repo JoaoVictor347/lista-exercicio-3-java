@@ -1,2 +1,6 @@
-# lista-exercicio-3-java
-Lista de exercício três realizados em java
+# lista-três-java-una
+Para realização dos códigos foi utilizada a ferramenta do visual stude code com java na versão de 1.17 juntamente com JDK
+
+Minha página no linkedin é [Linkedin](https://www.linkedin.com/jobs/view/3557408565/).
+
+Minha página no GitHub é [Github](https://github.com/JoaoVictor347).
